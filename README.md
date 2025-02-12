@@ -42,3 +42,5 @@ https://blockpad.net/
 https://observablehq.com
 See how far you can get with Jupyter
 Microsoft must have something like this. Can you tell me? VBA? Though I strongly prefer open source.
+
+Ctrl+` toggles showing all formulas or data.
