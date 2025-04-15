@@ -43,4 +43,4 @@ https://observablehq.com
 See how far you can get with Jupyter
 Microsoft must have something like this. Can you tell me? VBA? Though I strongly prefer open source.
 
-Ctrl+` toggles showing all formulas or data.
+Ctrl+`  toggles showing all formulas or data. It's named backtick and to be found under the ESCape key.
